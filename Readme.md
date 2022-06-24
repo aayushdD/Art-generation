@@ -1,3 +1,3 @@
 # Art generation using GANs
 
-In this project, i have used a painting dataset of several famous and distinguished artists. I have trained a GAN to generate these paintings. 
+In this project, I have used  this dataset - https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time -  of several famous and distinguished artists. I have trained a GAN to generate interesting pattenrs and paintings out of random noise.  
